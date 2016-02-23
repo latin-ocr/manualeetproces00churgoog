@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./manualeetproces00churgoog_0358.png"; bbox 0 0 954 1369; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 408 471 454 495">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 408 471 454 495">
+     <span class='ocr_line' id='line_1_1' title="bbox 408 471 454 495; baseline 0.022 -1"><span class='ocrx_word' id='word_1_1' title='bbox 408 471 454 495; x_wconf 79' lang='lat' dir='ltr'>II.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 264 560 602 586">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 264 560 602 586">
+     <span class='ocr_line' id='line_1_2' title="bbox 264 560 602 586; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 264 560 421 585; x_wconf 82' lang='lat' dir='ltr'>MANUAL</span> <span class='ocrx_word' id='word_1_3' title='bbox 455 560 602 586; x_wconf 78' lang='lat' dir='ltr'><strong>OFFIOES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 150 681 731 707">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 150 681 731 707">
+     <span class='ocr_line' id='line_1_3' title="bbox 150 681 731 707; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 150 681 313 707; x_wconf 75' lang='lat' dir='ltr'>[EREFORD</span> <span class='ocrx_word' id='word_1_5' title='bbox 324 681 448 707; x_wconf 81' lang='lat' dir='ltr'>MISSAL</span> <span class='ocrx_word' id='word_1_6' title='bbox 458 682 532 707; x_wconf 89' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_7' title='bbox 545 681 731 707; x_wconf 83' lang='lat' dir='ltr'><strong>BREVIARY.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 251 761 595 846">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 251 761 595 846">
+     <span class='ocr_line' id='line_1_4' title="bbox 270 761 595 778; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 270 761 354 777; x_wconf 72' lang='lat' dir='ltr'>1—01mo</span> <span class='ocrx_word' id='word_1_9' title='bbox 366 766 388 777; x_wconf 76' lang='lat' dir='ltr'>tm</span> <span class='ocrx_word' id='word_1_10' title='bbox 399 761 487 777; x_wconf 66' lang='lat' dir='ltr'><strong>FAcmunA</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 499 761 595 778; x_wconf 52' lang='lat' dir='ltr'>sponsum.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 259 795 561 811; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 259 795 320 811; x_wconf 87' lang='lat' dir='ltr'>II.—B</span> <span class='ocrx_word' id='word_1_13' title='bbox 322 800 409 811; x_wconf 67' lang='lat' dir='ltr'>nnnnnnn</span> <span class='ocrx_word' id='word_1_14' title='bbox 421 795 435 811; x_wconf 90' lang='lat' dir='ltr'>P</span> <span class='ocrx_word' id='word_1_15' title='bbox 436 800 532 811; x_wconf 63' lang='lat' dir='ltr'>nnnnnnnnn</span> <span class='ocrx_word' id='word_1_16' title='bbox 533 800 561 811; x_wconf 69' lang='lat' dir='ltr'>xm.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 251 829 545 846; baseline 0 -1"><span class='ocrx_word' id='word_1_17' title='bbox 251 829 321 846; x_wconf 66' lang='grc' dir='ltr'><strong>ΙΙΙ-Ο</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 322 834 435 846; x_wconf 67' lang='lat' dir='ltr'>rrrrrrrrr</span> <span class='ocrx_word' id='word_1_19' title='bbox 446 829 545 845; x_wconf 59' lang='lat' dir='ltr'>Damno-ns.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
